@@ -1,0 +1,27 @@
+@font-face{
+font-family:"feis";
+src:url(../fonts/trebuchet.ttf) format("TrueType");
+}
+*{
+	font-family: "feis";
+}
+.aligninsc{
+	width:70%;
+	margin:0 auto;
+	text-align: center;
+}
+
+.map{margin:0 0 0 1%;width:97%;height:416px;border:solid 2px #000}
+
+.center{
+	text-align: center;
+}
+.floatleft{
+	float:left;
+}
+.floatright{
+	float:right;
+}
+.abajo{
+	vertical-align:text-bottom;
+}
